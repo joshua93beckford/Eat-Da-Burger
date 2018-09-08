@@ -1,0 +1,40 @@
+#container{
+
+    width: 960px;
+    background-color: #ffcc33;
+    margin: auto;
+    text-align: center;
+}
+
+#image{
+
+    width: 260px;
+    height: 260px;
+
+}
+#center{
+    margin: auto;
+    width: 640px;
+}
+#left{
+    width: 320px;
+    margin-right: auto;
+    margin-left: auto;  
+    float:left;
+    text-align: center;
+}
+#right{
+    width: 320px;
+    margin-right: auto;
+    margin-left: auto; 
+    float: left;
+    text-align: center;
+}
+
+li{
+    list-style-type: none;
+}
+
+ #create-form{
+clear: both;
+}
